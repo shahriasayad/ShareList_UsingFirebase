@@ -52,9 +52,10 @@ class _MyHomePageState extends State<MyHomePage> {
                             194,
                             1,
                           ),
-                          headerText: 'My humor upsets me XD',
-                          descriptionText: 'My humor not that great:(',
-                          scheduledDate: '69th August, 4020',
+                          headerText: 'My Task',
+                          descriptionText:
+                              'This is a description of my task. It can be long or short, but it will be truncated if it exceeds four lines.',
+                          scheduledDate: '2023-06-01',
                         ),
                       ),
                       Container(
